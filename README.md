@@ -1,6 +1,6 @@
 <h1 align="center"> ⚡️ Hi there :wave:, I am Hazel ⚡️</h1>
 
-## A Passionate Data User, learning to make better decisions !
+## A Passionate Data User, learning to make better decisions, live with high morale and empathy !
 
 <p align="center">
   <kbd>
@@ -11,7 +11,7 @@
 
 ## What skill I have (and keep working hard to improve!)
 
-⚡️ Learn to think critically (avoid common mental trap) and live with high morale and empathy\
+⚡️ Learn to think critically (avoid common mental trap)\
 ⚡️ Data Collection Framework from FE and BE (Pros/Cons/Trade-off)\
 ⚡️ Data Modelling (Data Cleaning, Statistics, Causation/Correlation, A/B Testing)\
 ⚡️ Data Output Report\
