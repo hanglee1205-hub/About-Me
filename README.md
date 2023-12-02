@@ -4,7 +4,7 @@
 
 <p align="center">
   <kbd>
-<img src="https://github.com/hanglee1205-hub/About-Me/blob/main/about_me.mov"></img>
+    <img src="about_me.gif"  width="560" />
   </kbd>
 </p>
 
@@ -19,8 +19,6 @@
 ⚡️ Valid HTML5 & CSS3\
 ⚡ Fast and SEO Optimized
 
-To view a demo example, **[Click Here](https://devfolio.js.org)**\
-To view a live example, **[Click Here](https://anilseervi.github.io/Portfolio/)**\
-To view live example repo, **[Click Here](https://github.com/AnilSeervi/Portfolio/)**
+To view a demo example, **[Click Here](https://github.com/hanglee1205-hub/insight)**
 
 ## Getting Started 🚀
