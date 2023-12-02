@@ -1,4 +1,4 @@
-<h1 align="center"> ⚡️ About Me ⚡️</h1>
+<h1 align="center"> ⚡️ About Me - I am Hazel ⚡️</h1>
 
 ## A Passionate Data Users !
 
@@ -9,16 +9,15 @@
 </p>
 
 
-## Features
+## What skill I have (and keep working hard to improve!)
 
-⚡️ Modern UI Design + Reveal Animations + Hover Effects\
-⚡️ Well organized documentation\
-⚡️ One Page Layout\
-⚡️ Custom SCSS\
-⚡️ Fully Responsive\
-⚡️ Valid HTML5 & CSS3\
-⚡ Fast and SEO Optimized
+⚡️ Data Collection Framework from FE and BE (Pros/Cons/Trade-off)\
+⚡️ Data Modelling (Data Cleaning, Statistics, Causation/Correlation, A/B Testing)\
+⚡️ Data Output Report\
+⚡️ Data Product Design (UI Design)\
+⚡️ Tools: SQL, Google BigQuery/DataStudio, Python, Excel, Figma, 
 
+To view a demo example, **[Click Here](https://github.com/hanglee1205-hub/insight)**\
 To view a demo example, **[Click Here](https://github.com/hanglee1205-hub/insight)**
 
 ## Getting Started 🚀
