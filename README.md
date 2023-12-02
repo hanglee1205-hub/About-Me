@@ -1,7 +1,7 @@
 <h1 align="center"> ⚡️ Hi there :wave:, I am Hazel ⚡️</h1>
 
-## A Passionate Data User
-Learning to make better decisions, live with high morale and empathy !
+## A Passionate Data User!
+#### Learning to make better decisions, live with high morale and empathy
 
 <p align="center">
   <kbd>
