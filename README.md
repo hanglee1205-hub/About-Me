@@ -1,6 +1,6 @@
-<h1 align="center"> ⚡️ About Me - I am Hazel ⚡️</h1>
+<h1 align="center"> ⚡️ Hi there :wave:, I am Hazel ⚡️</h1>
 
-## A Passionate Data Users !
+## A Passionate Data User !
 
 <p align="center">
   <kbd>
