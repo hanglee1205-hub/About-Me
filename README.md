@@ -1,6 +1,6 @@
 <h1 align="center"> ⚡️ Hi there :wave:, I am Hazel ⚡️</h1>
 
-## A Passionate Data User !
+## A Passionate Data User, learning to make better decisions !
 
 <p align="center">
   <kbd>
